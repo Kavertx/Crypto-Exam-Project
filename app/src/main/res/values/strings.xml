@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">exam2</string>
+    <string name="main_fragment_title">Cryptocurrencies</string>
+    <string name="details_fragment_ttile">Cryptocurrency Details</string>
+    <string name="crypto_price">Price: %1$s USD</string>
+    <string name="crypto_name">Name: %1$s</string>
+    <string name="crypto_symbol">Symbol: %1$s</string>
+    <string name="crypto_highest">Highest 24h: %1$s</string>
+    <string name="crypto_lowest">Lowest 24h: %1$s</string>
+    <string name="crypto_percent_market_cap">Percentage Market Cap Change 24h: %1$s</string>
+    <string name="crypto_percent_price">Percentage Price Change 24h: %1$s</string>
+    <string name="crypto_market_cap">Market Cap: %1$s</string>
+</resources>
